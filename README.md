@@ -14,5 +14,5 @@ Demonstration of how CNN can be used to optimize classification problem for Cifa
 ## Content of the project
 [Project tasks](Project_tasks.pdf)
 
-Best model used for achieving 88% testing accuracy
+*Best model used for achieving 88% testing accuracy
 ![alt text](Model.png)
