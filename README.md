@@ -12,4 +12,4 @@ Demonstration of how CNN can be used to optimize classification problem for Cifa
 <img src='https://www.researchgate.net/profile/Matteo_Ronchetti2/publication/324942789/figure/download/fig1/AS:622500476096513@1525427087143/Classes-in-the-CIFAR-10-dataset-as-well-as-10-random-images-from-each-class.png'>
 
 ## Content of the project
-[a relative link](Project demonstration tasks.pdf)
+[a relative link](src/Project demonstration tasks.pdf)
