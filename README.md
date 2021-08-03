@@ -20,3 +20,5 @@ Conducted Experiments
 Best model used for achieving 88% testing accuracy
 
 ![alt text](Model.png)
+
+Full Solution in [Cifar-10.ipynb](Cifar-10.ipynb)
